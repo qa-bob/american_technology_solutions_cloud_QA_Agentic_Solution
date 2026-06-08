@@ -1,0 +1,23 @@
+﻿{
+    "name":  "American Technology Solutions and Cloud",
+    "url":  "http://www.atsolutionsaz.com",
+    "description":  "",
+    "industry":  "",
+    "hasContactForm":  true,
+    "expectedNavItems":  [
+
+                         ],
+    "viewports":  [
+                      "desktop",
+                      "mobile",
+                      "tablet"
+                  ],
+    "skipVisual":  false,
+    "skipForms":  false,
+    "auth":  {
+                 "required":  false,
+                 "loginUrl":  "",
+                 "username":  "",
+                 "password":  ""
+             }
+}
